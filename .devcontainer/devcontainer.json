@@ -1,5 +1,4 @@
 {
-  "name": "My Python Codespace",
   "image": "mcr.microsoft.com/devcontainers/python:1-3.10-bookworm",
   "customizations": {
     "vscode": {
